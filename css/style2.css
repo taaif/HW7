@@ -1,0 +1,10 @@
+
+#demo {
+    color: rgb(194, 69, 222);
+    border: 10px;
+    border-radius: 5px;
+}
+#cards{
+    display: none;
+}
+
